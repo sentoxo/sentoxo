@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [EdgeCubeH3](https://github.com/sentoxo/EdgeCubeH3)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sentoxo?tab=repositories](https://github.com/sentoxo?tab=repositories)
+- 🌱 I’m currently learning **KiCAD and hardware development**
 
-- 📫 How to reach me **sentoxoo@protonmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/sentoxo?tab=repositories](https://github.com/sentoxo?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
